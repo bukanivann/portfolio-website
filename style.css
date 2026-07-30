@@ -683,6 +683,15 @@ section {
     font-size: 0.95rem;
 }
 
+.instagram-card {
+    text-align: center;
+    justify-content: center;
+}
+
+.instagram-card .icon-box {
+    margin: 0 auto 1rem;
+}
+
 /* Footer */
 footer {
     text-align: center;
